@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/stelzer/DjangoProjetos/blog/templates/blog'
+let g:netrw_dirhist_2='/home/stelzer/.vim'
+let g:netrw_dirhist_3='/home/stelzer/DjangoProjetos/blog'
